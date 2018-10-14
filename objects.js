@@ -11,3 +11,12 @@ function updatePlaylist(playlistObj, artistName, songTitle) {
   return playlistObj;
   
 }
+
+
+//3 Remove Artist and Song 
+function removeFromPlaylist(playlist, artistName) {
+  
+  delete playlist[artist];
+  return playlist;
+  
+}
