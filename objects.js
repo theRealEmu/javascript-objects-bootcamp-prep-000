@@ -4,4 +4,8 @@ var playlist = {
 };
 
 
-//
+//2 update playlists
+function updatePlaylist(playlistObj, artistName, songTitle) {
+  
+  
+}
